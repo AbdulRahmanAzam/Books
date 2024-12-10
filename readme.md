@@ -24,6 +24,8 @@ Welcome to the **Books** repository! This repository is dedicated to providing i
 
 ---
 
+[FAST NUCES Material](https://github.com/Syed007Hassan/Fast-Material-CS-SE/tree/main/6TH%20SEMESTER/Blockchain%20and%20Cryptocurrency)
+
 ## 🗂️ Categories  
 
 ### 1. Artificial Intelligence (AI)  
